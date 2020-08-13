@@ -1,2 +1,2 @@
 # new-homework
-homework
+ homeworkI wanna  try out GITHUB's various features
